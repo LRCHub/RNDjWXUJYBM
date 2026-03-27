@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "base_track": "SAIKAI",
+  "base_artist": "Mili",
+  "createdAt": "2026-03-27T06:20:08.224841Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Saikai (produced by Ayase)",
+      "artist": "LiSA feat. Uru",
+      "has_synced": true,
+      "path": "select/01_Saikai_(produced_by_Ayase)_LiSA_feat._Uru.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Saikai (produced by Ayase)",
+      "artist": "LiSA & Uru",
+      "has_synced": true,
+      "path": "select/02_Saikai_(produced_by_Ayase)_LiSA_&_Uru.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Saikai (produced by Ayase)",
+      "artist": "LiSA,Uru",
+      "has_synced": true,
+      "path": "select/03_Saikai_(produced_by_Ayase)_LiSA,Uru.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cefiro Radio Comeback ~Seishun Saikai~ [セフィーロ・レディオ・カムバック〜青春最下位〜]",
+      "artist": "Maximum the Hormone",
+      "has_synced": false,
+      "path": "select/04_Cefiro_Radio_Comeback_~Seishun_Saikai~_[セフィーロ・レディオ・カムバック〜青春最下位〜]_Maximum_the_Hormone.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Saikai (produced by Ayase)",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/05_Saikai_(produced_by_Ayase)_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cefiro Radio Comeback ~Seishun Saikai~",
+      "artist": "Maximum the Hormone",
+      "has_synced": false,
+      "path": "select/06_Cefiro_Radio_Comeback_~Seishun_Saikai~_Maximum_the_Hormone.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Saikai",
+      "artist": "Aki Yashiro",
+      "has_synced": false,
+      "path": "select/07_Saikai_Aki_Yashiro.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sefiiro Radio Comeback ~Seishun Saikai~",
+      "artist": "Maximum The Hormone",
+      "has_synced": true,
+      "path": "select/08_Sefiiro_Radio_Comeback_~Seishun_Saikai~_Maximum_The_Hormone.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "再会 - Saikai",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/09_再会_-_Saikai_Uru.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "再会 - Saikai",
+      "artist": "LiSA,Uru",
+      "has_synced": true,
+      "path": "select/10_再会_-_Saikai_LiSA,Uru.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "再会 - Saikai",
+      "artist": "LiSA • Uru",
+      "has_synced": true,
+      "path": "select/11_再会_-_Saikai_LiSA_•_Uru.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Saikai",
+      "artist": "ギルガメッシュ",
+      "has_synced": true,
+      "path": "select/12_Saikai_ギルガメッシュ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SAIKAI",
+      "artist": "Mili",
+      "has_synced": false,
+      "path": "select/pl_01_SAIKAI_Mili.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "SAIKAI",
+      "artist": "Mili",
+      "has_synced": false,
+      "path": "select/localdb_01_SAIKAI_Mili.txt",
+      "repo_name": "GGBzOUSX-Ok"
+    }
+  ]
+}
